@@ -1,16 +1,6 @@
-### Hi there 👋
-
-<!--
-**Minhaz5221/Minhaz5221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... C++
-- 🌱 I’m currently learning ...C++
-- 👯 I’m looking to collaborate on ... C++
-- 🤔 I’m looking for help with ...C++
-- 💬 Ask me about ...C++
-- 📫 How to reach me: ...minhaizzaaaaaaaaaa@gmail.com
-- 😄 Pronouns: ...He
-- ⚡ Fun fact: ...you'll know when you hang outwith me
--->
+### Hi there 👋i'm Minhaz
+- 🌱 I’m currently studying **CSE Undergraduate at Bangladesh University of Business and Technology (BUBT).**
+- 👯 I’m looking to collaborate on **projects such as related to c,c++,python**
+- 💬 Ask me about **C,C++,PYTHON,JAVASCRIPT,HTML,CSS**
+- 📫 How to reach me via email:**minhaizzaaaaaaaaaa@gmail.com**
+- ⚡ Fun fact **you'll know when you hang out with me.**
